@@ -1,16 +1,22 @@
 # Cybersecurity Analytics Learning Journey
+Aspiring Cybersecurity Analyst based in Mexico, currently building 
+foundational skills in IT, security, and Python automation with the 
+goal of transitioning into a professional role in Cybersecurity Analytics.
+Long-term objective: develop a competitive technical profile to access 
+cybersecurity opportunities in international markets (Canada / U.S.).
 
-This repository documents my learning journey into **Cybersecurity Analytics**.
-
-The goal of this project is to develop practical skills in cybersecurity, data analysis, and automation through structured courses and weekly portfolio projects.
+## Current Status
+- 📚 Currently studying: Google IT Support Professional Certificate
+- 🎯 Next milestone: Complete Google Cybersecurity Professional Certificate
+- 🛠️ Building: Repository structure and first Python exercises
 
 ## Topics Covered
 
 - IT Infrastructure
 - Cybersecurity Fundamentals
 - Python Automation
-- Data Analytics
-- Cloud Security
+- Data Analytics applied to security
+- Security Information and Event Management (SIEM)
 
 ## Repository Structure
 
@@ -26,19 +32,34 @@ Scripts and automation exercises using Python.
 04_Data_Analytics  
 Data analysis projects, SQL queries, and security-related datasets.
 
-05_Cloud_Security  
-Projects related to cloud infrastructure and security concepts.
-
-06_Capstone_Project  
+05_Capstone_Project  
 Final project integrating cybersecurity, automation, and data analysis.
 
 ## Learning Approach
 
 Each section includes:
+- Practical exercises and small projects
+- Full documentation in English
+- Real-world examples and datasets where applicable
 
-- Exercises
-- Small projects
-- Documentation
-- Practical examples
 
-These activities are part of a long-term study plan focused on building a professional portfolio in cybersecurity analytics.
+These activities are part of a structured, long-term study plan focused 
+on building a professional portfolio in Cybersecurity Analytics.
+
+## Certifications Roadmap
+
+| Certification | Status |
+|---------------|--------|
+| Google IT Support Professional Certificate | 🔄 In Progress |
+| Google Cybersecurity Professional Certificate | ⏳ Pending |
+| Google IT Automation with Python | ⏳ Pending |
+| Google Data Analytics Professional Certificate | ⏳ Pending |
+| Microsoft Cybersecurity Analyst Professional Certificate | ⏳ Pending |
+| CompTIA Security+ | ⏳ Pending |
+| Splunk Core Certified User | ⏳ Pending |
+| CompTIA CySA+ | ⏳ Pending |
+
+## Connect
+
+- 📍 Mexico
+- 💼 [LinkedIn](https://www.linkedin.com/in/eseanez)
