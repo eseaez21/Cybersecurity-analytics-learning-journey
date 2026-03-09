@@ -14,7 +14,7 @@ The goal of this project is to develop practical skills in cybersecurity, data a
 
 ## Repository Structure
 
-01_IT_Support  
+01_IT Support  
 Projects related to IT infrastructure, systems, and networking fundamentals.
 
 02_Cybersecurity  
